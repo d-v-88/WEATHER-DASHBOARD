@@ -1,6 +1,16 @@
-# React + Vite
+# WEATHER-DASHBOARD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*COMPANY*: CODTECH IT SOULTIONS
+
+*NAME*: DHITI N VARMA
+
+*INTERN ID*: CT04DL514
+
+*DOMAIN*: React.js Web Development
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 Currently, two official plugins are available:
 
