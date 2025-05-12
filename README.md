@@ -19,12 +19,16 @@ A responsive weather dashboard web application that displays real-time weather u
 
 # Frontend
 *React*: Component-based architecture for building dynamic UIs.
+
 *HTML5*: Semantic structure for the web application.
+
 *CSS3*: Custom style and layout control.
+
 *Javascript(ES6+)*: Functional logic and API handling.
 
 # Styling & Animations
 *Tailwind CSS*: Utility-first CSS framework for fast UI design.
+
 *Framer Motion*: Animation library for react to create smooth transitions.
 
 # API & Notifications
@@ -34,15 +38,21 @@ A responsive weather dashboard web application that displays real-time weather u
 The project was developed and amaintained using:
 
 *Visual Studio Code (VS Code)*: A powerful and lightweight code editor with rich extensions for react and web development.
+
 *Git & GitHub*: For version control and project collaboration.
 
 
 # APPLICABILITY 
 This Weather Dashboard is a practical, real-word application that can be used in various scenarios:
+
 *Daily Weather Check*: Quick access to current weather data for any city.
+
 *Travel Planning Tool*: Helps users plan trips based on weather conditions.
+
 *Education Projects*: Demonstrates API integration, responsive UI design, and react component architecture.
+
 *Portfolio Showcase*: Highlights front-end development, animations and clean design for job or freelance profiles.
+
 *Base App for further development*: Can be extended to include forcast, multiple location tracking, or geo-location-based weather.
 
 
