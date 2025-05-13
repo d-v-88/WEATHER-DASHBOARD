@@ -60,6 +60,14 @@ This Weather Dashboard is a practical, real-word application that can be used in
 
 *Base App for further development*: Can be extended to include forcast, multiple location tracking, or geo-location-based weather.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/01440856-c656-4919-a40d-dd18bee4df84)
+
+
+
+![Image](https://github.com/user-attachments/assets/46c4f0d1-8b8f-4cae-b2a8-24a1299a9a9b)
+
 
 
 
