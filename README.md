@@ -66,7 +66,15 @@ This Weather Dashboard is a practical, real-word application that can be used in
 
 
 
+
 ![Image](https://github.com/user-attachments/assets/46c4f0d1-8b8f-4cae-b2a8-24a1299a9a9b)
+
+
+
+![Image](https://github.com/user-attachments/assets/36bd726e-7cc7-46bc-90a6-671bfe009328)
+
+
+
 
 
 
