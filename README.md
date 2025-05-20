@@ -36,11 +36,11 @@ Overall, this weather dashboard serves as both a useful utility and a demonstrat
 
 *Framer Motion*: Animation library for react to create smooth transitions.
 
-# API & Notifications
+# API 
 *OpenWeatherMap API*: Provides live weather data based on city input.
 
 # EDITING PLATFORM
-The project was developed and amaintained using:
+The project was developed and maintained using:
 
 *Visual Studio Code (VS Code)*: A powerful and lightweight code editor with rich extensions for react and web development.
 
